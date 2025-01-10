@@ -13,6 +13,7 @@
     "@hookform/resolvers": "^3.10.0",
     "@types/react-router-dom": "^5.3.3",
     "02-ignite-timer": "file:",
+    "date-fns": "^4.1.0",
     "phosphor-react": "^1.4.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
